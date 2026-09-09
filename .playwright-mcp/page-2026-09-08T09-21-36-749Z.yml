@@ -1,0 +1,224 @@
+- generic [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e4]:
+      - generic [ref=f2e5]:
+        - link [ref=f2e6] [cursor=pointer]:
+          - /url: https://phptravels.net/
+          - img "PHPTARVELS" [ref=f2e7]
+        - navigation [ref=f2e8]:
+          - button "Services expand_more" [ref=f2e10] [cursor=pointer]:
+            - generic [ref=f2e16]: Services
+            - generic [ref=f2e17]: expand_more
+          - button "Company expand_more" [ref=f2e19] [cursor=pointer]:
+            - generic [ref=f2e23]: Company
+            - generic [ref=f2e24]: expand_more
+      - generic [ref=f2e26]:
+        - generic [ref=f2e28]:
+          - button "USD" [ref=f2e29] [cursor=pointer]
+          - button "English flag en" [ref=f2e38] [cursor=pointer]:
+            - img "English flag" [ref=f2e39]
+            - generic [ref=f2e40]: en
+        - link "login Login" [ref=f2e42] [cursor=pointer]:
+          - /url: https://phptravels.net/login
+          - generic [ref=f2e43]: login
+          - generic [ref=f2e44]: Login
+        - button "person_add Signup expand_more" [ref=f2e46] [cursor=pointer]:
+          - generic [ref=f2e47]: person_add
+          - generic [ref=f2e48]: Signup
+          - generic [ref=f2e49]: expand_more
+  - generic [ref=f2e52]:
+    - generic [ref=f2e53]:
+      - generic [ref=f2e54]: person_add
+      - heading "Create Account" [level=2] [ref=f2e56]
+      - paragraph [ref=f2e57]: Create your account to continue
+    - generic [ref=f2e58]:
+      - generic [ref=f2e59]:
+        - generic [ref=f2e60]:
+          - generic [ref=f2e61]:
+            - generic [ref=f2e62]: First Name *
+            - textbox "First Name *" [active] [ref=f2e63]:
+              - /placeholder: First Name
+          - generic [ref=f2e64]:
+            - generic [ref=f2e65]: Last Name *
+            - textbox "Last Name *" [ref=f2e66]:
+              - /placeholder: Last Name
+        - generic [ref=f2e67]:
+          - generic [ref=f2e68]: Email Address *
+          - generic [ref=f2e69]:
+            - generic: email
+            - textbox "Email Address *" [ref=f2e70]:
+              - /placeholder: Email Address
+        - generic [ref=f2e71]:
+          - generic [ref=f2e72]: Password *
+          - generic [ref=f2e73]:
+            - textbox "Password *" [ref=f2e74]:
+              - /placeholder: Password
+            - generic [ref=f2e75] [cursor=pointer]: visibility
+          - generic [ref=f2e77]:
+            - paragraph [ref=f2e78]: "Password Strength:"
+            - paragraph [ref=f2e79]: Enter password
+          - paragraph [ref=f2e81]: Password must be at least 6 characters long
+        - generic [ref=f2e82]:
+          - generic [ref=f2e83]: Confirm Password *
+          - generic [ref=f2e84]:
+            - textbox "Confirm Password *" [ref=f2e85]:
+              - /placeholder: Confirm Password
+            - generic [ref=f2e86] [cursor=pointer]: visibility
+        - generic [ref=f2e87]:
+          - generic [ref=f2e88]: "Security Check: What is 7 × 2? *"
+          - generic [ref=f2e89]:
+            - generic: calculate
+            - 'spinbutton "Security Check: What is 7 × 2? *" [ref=f2e90]'
+        - textbox [aria-hidden] [ref=f2e91]
+        - generic [ref=f2e93]:
+          - generic [ref=f2e94]:
+            - checkbox "I agree to the Terms of Service and Privacy Policy" [ref=f2e95]
+            - generic [ref=f2e96] [cursor=pointer]: check
+          - generic [ref=f2e98] [cursor=pointer]:
+            - text: I agree to the
+            - link "Terms of Service" [ref=f2e99]:
+              - /url: https://phptravels.net/page/terms-of-use
+            - text: and
+            - link "Privacy Policy" [ref=f2e100]:
+              - /url: https://phptravels.net/page/privacy-policy
+        - button "person_add Create Account" [ref=f2e102] [cursor=pointer]:
+          - generic [ref=f2e103]:
+            - generic [ref=f2e104]: person_add
+            - text: Create Account
+      - paragraph [ref=f2e106]:
+        - text: Already have an account?
+        - link "Login" [ref=f2e107] [cursor=pointer]:
+          - /url: https://phptravels.net/login
+  - contentinfo [ref=f2e108]:
+    - generic [ref=f2e110]:
+      - generic [ref=f2e111]:
+        - generic [ref=f2e112]:
+          - link [ref=f2e114] [cursor=pointer]:
+            - /url: https://phptravels.net/
+            - img "PHPTARVELS" [ref=f2e115]
+          - paragraph [ref=f2e116]: Your trusted travel partner for unforgettable journeys. Discover the world with our comprehensive booking services.
+        - generic [ref=f2e117]:
+          - generic [ref=f2e118]:
+            - generic [ref=f2e119]: headset_mic
+            - generic [ref=f2e121]:
+              - paragraph [ref=f2e122]: 24/7 Support
+              - paragraph [ref=f2e123]: Always here to help
+          - generic [ref=f2e124]:
+            - link "Email Support" [ref=f2e125] [cursor=pointer]:
+              - /url: mailto:email@agency.com
+              - generic [ref=f2e126]: mail
+            - link "WhatsApp Support" [ref=f2e127] [cursor=pointer]:
+              - /url: https://wa.me/123456789
+      - generic [ref=f2e131]:
+        - generic [ref=f2e132]:
+          - heading "Company" [level=4] [ref=f2e133]
+          - list [ref=f2e134]:
+            - listitem [ref=f2e135]:
+              - link "Contact us" [ref=f2e136] [cursor=pointer]:
+                - /url: https://phptravels.net/page/contact-us
+            - listitem [ref=f2e137]:
+              - link "About us" [ref=f2e138] [cursor=pointer]:
+                - /url: https://phptravels.net/page/about-us
+            - listitem [ref=f2e139]:
+              - link "Cookies Policy" [ref=f2e140] [cursor=pointer]:
+                - /url: https://phptravels.net/page/cookies-policy
+            - listitem [ref=f2e141]:
+              - link "Privacy Policy" [ref=f2e142] [cursor=pointer]:
+                - /url: https://phptravels.net/page/privacy-policy
+            - listitem [ref=f2e143]:
+              - link "Become a Supplier" [ref=f2e144] [cursor=pointer]:
+                - /url: https://phptravels.net/page/become-a-supplier
+            - listitem [ref=f2e145]:
+              - link "Terms of Use" [ref=f2e146] [cursor=pointer]:
+                - /url: https://phptravels.net/page/terms-of-use
+        - generic [ref=f2e147]:
+          - heading "Support" [level=4] [ref=f2e148]
+          - list [ref=f2e149]:
+            - listitem [ref=f2e150]:
+              - link "Affiliate Program" [ref=f2e151] [cursor=pointer]:
+                - /url: https://phptravels.net/page/affiliate-program
+            - listitem [ref=f2e152]:
+              - link "Investors" [ref=f2e153] [cursor=pointer]:
+                - /url: https://phptravels.net/page/investors
+            - listitem [ref=f2e154]:
+              - link "Careers and Jobs" [ref=f2e155] [cursor=pointer]:
+                - /url: https://phptravels.net/page/careers-and-jobs
+            - listitem [ref=f2e156]:
+              - link "How to Book" [ref=f2e157] [cursor=pointer]:
+                - /url: https://phptravels.net/page/how-to-book
+            - listitem [ref=f2e158]:
+              - link "File a Claim" [ref=f2e159] [cursor=pointer]:
+                - /url: https://phptravels.net/page/file-a-claim
+            - listitem [ref=f2e160]:
+              - link "Refund Policy" [ref=f2e161] [cursor=pointer]:
+                - /url: https://phptravels.net/page/refund-policy
+        - generic [ref=f2e162]:
+          - heading "Explore" [level=4] [ref=f2e163]
+          - list [ref=f2e164]:
+            - listitem [ref=f2e165]:
+              - link "Best Travel Deals" [ref=f2e166] [cursor=pointer]:
+                - /url: https://phptravels.net/page/best-travel-deals
+            - listitem [ref=f2e167]:
+              - link "Travel Documents" [ref=f2e168] [cursor=pointer]:
+                - /url: https://phptravels.net/page/travel-documents
+            - listitem [ref=f2e169]:
+              - link "Travel Insurance" [ref=f2e170] [cursor=pointer]:
+                - /url: https://phptravels.net/page/travel-insurance
+      - generic [ref=f2e171]:
+        - heading "Get In Touch" [level=4] [ref=f2e172]
+        - generic [ref=f2e173]:
+          - generic [ref=f2e174]:
+            - generic [ref=f2e175]: location_on
+            - paragraph [ref=f2e176]: 71 St, Suite 900 San Francisco, United States
+          - generic [ref=f2e177]:
+            - generic [ref=f2e178]: call
+            - link "+123456789" [ref=f2e179] [cursor=pointer]:
+              - /url: tel:+123456789
+          - generic [ref=f2e180]:
+            - generic [ref=f2e181]: mail
+            - link "email@agency.com" [ref=f2e182] [cursor=pointer]:
+              - /url: mailto:email@agency.com
+          - generic [ref=f2e184]:
+            - link "Facebook" [ref=f2e185] [cursor=pointer]:
+              - /url: https://facebook.com/phptravels
+            - link "Twitter" [ref=f2e188] [cursor=pointer]:
+              - /url: https://twitter.com/phptravels
+            - link "Instagram" [ref=f2e191] [cursor=pointer]:
+              - /url: https://instagram.com/phptravels
+            - link "YouTube" [ref=f2e194] [cursor=pointer]:
+              - /url: https://youtube.com/@phptravels
+            - link "LinkedIn" [ref=f2e197] [cursor=pointer]:
+              - /url: https://linkedin.com/company/phptravels
+    - generic [ref=f2e202]:
+      - generic [ref=f2e203]:
+        - paragraph [ref=f2e204]: © 2026 PHPTARVELS. All rights reserved.
+        - paragraph [ref=f2e205]:
+          - text: Powered by
+          - link "PHPTRAVELS" [ref=f2e206] [cursor=pointer]:
+            - /url: https://phptravels.com
+      - generic [ref=f2e207]:
+        - link "Privacy Policy" [ref=f2e208] [cursor=pointer]:
+          - /url: https://phptravels.net/page/privacy-policy
+        - generic [ref=f2e209]:
+          - generic [ref=f2e210]: •
+          - link "Terms of Use" [ref=f2e211] [cursor=pointer]:
+            - /url: https://phptravels.net/page/terms-of-use
+        - generic [ref=f2e212]:
+          - generic [ref=f2e213]: •
+          - link "Cookies Policy" [ref=f2e214] [cursor=pointer]:
+            - /url: https://phptravels.net/page/cookies-policy
+        - generic [ref=f2e215]:
+          - generic [ref=f2e216]: •
+          - link "Refund Policy" [ref=f2e217] [cursor=pointer]:
+            - /url: https://phptravels.net/page/refund-policy
+      - generic [ref=f2e218]:
+        - generic [ref=f2e219]:
+          - generic [ref=f2e220]: verified_user
+          - generic [ref=f2e221]: SSL Secure
+        - link "verified IATA" [ref=f2e222] [cursor=pointer]:
+          - /url: https://iata.co
+          - generic [ref=f2e223]: verified
+          - generic [ref=f2e224]: IATA
+        - generic [ref=f2e225]:
+          - generic [ref=f2e226]: credit_card
+          - generic [ref=f2e227]: PCI DSS

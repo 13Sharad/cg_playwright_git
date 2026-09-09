@@ -1,0 +1,145 @@
+- generic [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e4]:
+      - generic [ref=f3e5]:
+        - link "PHPTARVELS" [ref=f3e6] [cursor=pointer]:
+          - /url: https://phptravels.net/
+          - img "PHPTARVELS" [ref=f3e7]
+        - navigation [ref=f3e8]:
+          - generic [ref=f3e9]
+          - button "Company expand_more" [ref=f3e19] [cursor=pointer]
+      - generic [ref=f3e26]:
+        - generic [ref=f3e28]:
+          - button "USD" [ref=f3e29] [cursor=pointer]
+          - button "English flag en" [ref=f3e38] [cursor=pointer]
+        - link "login Login" [ref=f3e42] [cursor=pointer]:
+          - /url: https://phptravels.net/login
+          - generic [ref=f3e43]: login
+          - generic [ref=f3e44]: Login
+        - button "person_add Signup expand_more" [ref=f3e46] [cursor=pointer]:
+          - generic [ref=f3e47]: person_add
+          - generic [ref=f3e48]: Signup
+          - generic [ref=f3e49]: expand_more
+  - generic [ref=f3e50]:
+    - img "Hero" [ref=f3e53]
+    - generic [ref=f3e54]:
+      - generic [ref=f3e55]:
+        - heading "Travel the way you love!" [level=1] [ref=f3e56]
+        - paragraph [ref=f3e57]: Let's help you plan your next journey the one that will leave a lifetime of memories.
+      - generic [ref=f3e58]:
+        - tablist [ref=f3e59]:
+          - tab "hotel Stays" [ref=f3e60] [cursor=pointer]
+          - tab "flight_takeoff Flights" [ref=f3e63] [cursor=pointer]
+          - tab "card_membership Visa" [ref=f3e66] [cursor=pointer]
+          - tab "auto_awesome AI Trip Planner" [ref=f3e69] [cursor=pointer]
+        - generic [ref=f3e72]:
+          - tabpanel [ref=f3e417]
+          - text: Describe the trip you need… (e.g. Round trip Dubai to Paris in October for 2 adults, beach resort stay)
+  - generic [ref=f3e79]:
+    - generic [ref=f3e298]:
+      - generic [ref=f3e299]:
+        - heading "hotel Featured Properties" [level=2] [ref=f3e300]:
+          - generic [ref=f3e301]: hotel
+          - text: Featured Properties
+        - generic [ref=f3e302]:
+          - generic [ref=f3e303]
+          - generic [ref=f3e306]
+          - generic [ref=f3e309]
+        - generic [ref=f3e313]:
+          - button "Dubai" [ref=f3e314] [cursor=pointer]
+          - button "New York" [ref=f3e315] [cursor=pointer]
+          - button "Barcelona" [ref=f3e316] [cursor=pointer]
+          - button "Tokyo" [ref=f3e317] [cursor=pointer]
+          - button "Maldives" [ref=f3e318] [cursor=pointer]
+          - button "Gan Island" [ref=f3e319] [cursor=pointer]
+      - generic [ref=f3e320]:
+        - generic [ref=f3e321]:
+          - generic [ref=f3e322]
+          - generic [ref=f3e330]
+          - link [ref=f3e344] [cursor=pointer]:
+            - /url: https://phptravels.net/stay/burj-al-arab/200/hotels/_/08-09-2026/09-09-2026/NULL/1/2-0
+        - generic [ref=f3e345]:
+          - generic [ref=f3e346]
+          - generic [ref=f3e354]
+          - link [ref=f3e368] [cursor=pointer]:
+            - /url: https://phptravels.net/stay/atlantis-the-palm/201/hotels/_/08-09-2026/09-09-2026/NULL/1/2-0
+        - generic [ref=f3e369]:
+          - generic [ref=f3e370]
+          - generic [ref=f3e378]
+          - link [ref=f3e392] [cursor=pointer]:
+            - /url: https://phptravels.net/stay/address-downtown-dubai/202/hotels/_/08-09-2026/09-09-2026/NULL/1/2-0
+        - generic [ref=f3e393]:
+          - generic [ref=f3e394]
+          - generic [ref=f3e402]
+          - link [ref=f3e416] [cursor=pointer]:
+            - /url: https://phptravels.net/stay/jw-marriott-marquis-dubai/203/hotels/_/08-09-2026/09-09-2026/NULL/1/2-0
+    - generic [ref=f3e114]:
+      - img "Mobile Apps" [ref=f3e116]
+      - generic [ref=f3e118]:
+        - heading "Travel on the go with our app" [level=1] [ref=f3e119]
+        - paragraph [ref=f3e120]: Book from your phone anytime, anywhere.
+        - generic [ref=f3e121]:
+          - link "Download on the App Store" [ref=f3e122] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.phptravels.android
+          - link "Get it on Google Play" [ref=f3e128] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/phptravels/id6776969102
+  - contentinfo [ref=f3e134]:
+    - generic [ref=f3e136]:
+      - generic [ref=f3e137]:
+        - generic [ref=f3e138]:
+          - link "PHPTARVELS" [ref=f3e140] [cursor=pointer]:
+            - /url: https://phptravels.net/
+          - paragraph [ref=f3e142]: Your trusted travel partner for unforgettable journeys. Discover the world with our comprehensive booking services.
+        - generic [ref=f3e143]:
+          - generic [ref=f3e144]
+          - generic [ref=f3e150]
+      - generic [ref=f3e157]:
+        - generic [ref=f3e158]:
+          - heading "Company" [level=4] [ref=f3e159]
+          - list [ref=f3e160]
+        - generic [ref=f3e173]:
+          - heading "Support" [level=4] [ref=f3e174]
+          - list [ref=f3e175]
+        - generic [ref=f3e188]:
+          - heading "Explore" [level=4] [ref=f3e189]
+          - list [ref=f3e190]
+      - generic [ref=f3e197]:
+        - heading "Get In Touch" [level=4] [ref=f3e198]
+        - generic [ref=f3e199]:
+          - generic [ref=f3e200]
+          - generic [ref=f3e203]
+          - generic [ref=f3e206]
+          - generic [ref=f3e210]
+    - generic [ref=f3e228]:
+      - generic [ref=f3e229]:
+        - paragraph [ref=f3e230]: © 2026 PHPTARVELS. All rights reserved.
+        - paragraph [ref=f3e231]:
+          - text: Powered by
+          - link "PHPTRAVELS" [ref=f3e232] [cursor=pointer]:
+            - /url: https://phptravels.com
+      - generic [ref=f3e233]:
+        - link "Privacy Policy" [ref=f3e234] [cursor=pointer]:
+          - /url: https://phptravels.net/page/privacy-policy
+        - generic [ref=f3e235]:
+          - generic [ref=f3e236]: •
+          - link "Terms of Use" [ref=f3e237] [cursor=pointer]:
+            - /url: https://phptravels.net/page/terms-of-use
+        - generic [ref=f3e238]:
+          - generic [ref=f3e239]: •
+          - link "Cookies Policy" [ref=f3e240] [cursor=pointer]:
+            - /url: https://phptravels.net/page/cookies-policy
+        - generic [ref=f3e241]:
+          - generic [ref=f3e242]: •
+          - link "Refund Policy" [ref=f3e243] [cursor=pointer]:
+            - /url: https://phptravels.net/page/refund-policy
+      - generic [ref=f3e244]:
+        - generic [ref=f3e245]:
+          - generic [ref=f3e246]: verified_user
+          - generic [ref=f3e247]: SSL Secure
+        - link "verified IATA" [ref=f3e248] [cursor=pointer]:
+          - /url: https://iata.co
+          - generic [ref=f3e249]: verified
+          - generic [ref=f3e250]: IATA
+        - generic [ref=f3e251]:
+          - generic [ref=f3e252]: credit_card
+          - generic [ref=f3e253]: PCI DSS

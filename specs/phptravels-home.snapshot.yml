@@ -1,0 +1,91 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "PHPTARVELS" [ref=e6] [cursor=pointer]:
+          - /url: https://phptravels.net/
+        - navigation [ref=e8]
+      - generic [ref=e26]:
+        - generic [ref=e28]
+        - link "login Login" [ref=e42] [cursor=pointer]:
+          - /url: https://phptravels.net/login
+        - button "person_add Signup expand_more" [ref=e46] [cursor=pointer]
+  - generic [ref=e50]:
+    - img "Hero" [ref=e53]
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - heading "Travel the way you love!" [level=1] [ref=e56]
+        - paragraph [ref=e57]: Let's help you plan your next journey the one that will leave a lifetime of memories.
+      - generic [ref=e58]:
+        - tablist [ref=e59]
+        - generic [ref=e72]
+  - generic [ref=e79]:
+    - generic [ref=e296]:
+      - generic [ref=e297]:
+        - heading "hotel Featured Properties" [level=2] [ref=e298]
+        - generic [ref=e300]
+        - generic [ref=e311]
+      - generic [ref=e318]:
+        - generic [ref=e319]
+        - generic [ref=e343]
+        - generic [ref=e367]
+        - generic [ref=e391]
+    - generic [ref=e114]:
+      - img "Mobile Apps" [ref=e116]
+      - generic [ref=e118]:
+        - heading "Travel on the go with our app" [level=1] [ref=e119]
+        - paragraph [ref=e120]: Book from your phone anytime, anywhere.
+        - generic [ref=e121]
+  - contentinfo [ref=e134]:
+    - generic [ref=e136]:
+      - generic [ref=e137]:
+        - generic [ref=e138]
+        - generic [ref=e143]
+      - generic [ref=e157]:
+        - generic [ref=e158]
+        - generic [ref=e173]
+        - generic [ref=e188]
+      - generic [ref=e197]:
+        - heading "Get In Touch" [level=4] [ref=e198]
+        - generic [ref=e199]
+    - generic [ref=e228]:
+      - generic [ref=e229]:
+        - paragraph [ref=e230]: © 2026 PHPTARVELS. All rights reserved.
+        - paragraph [ref=e231]
+      - generic [ref=e233]:
+        - link "Privacy Policy" [ref=e234] [cursor=pointer]:
+          - /url: https://phptravels.net/page/privacy-policy
+        - generic [ref=e235]
+        - generic [ref=e238]
+        - generic [ref=e241]
+      - generic [ref=e244]:
+        - generic [ref=e245]
+        - link "verified IATA" [ref=e248] [cursor=pointer]:
+          - /url: https://iata.co
+        - generic [ref=e251]
+  - generic [ref=e255]:
+    - generic [ref=e257]:
+      - generic [ref=e258]: ⚠️
+      - generic [ref=e259]:
+        - 'heading "Important Notice: Demo Environment" [level=2] [ref=e260]'
+        - paragraph [ref=e261]: Please read this information carefully before using the system
+    - generic [ref=e262]:
+      - generic [ref=e263]:
+        - generic [ref=e264]: currency_exchange
+        - generic [ref=e265]
+      - generic [ref=e268]:
+        - generic [ref=e269]: vpn_key
+        - generic [ref=e270]
+      - generic [ref=e274]:
+        - generic [ref=e275]: credit_card
+        - generic [ref=e276]
+      - generic [ref=e279]:
+        - generic [ref=e280]: storage
+        - generic [ref=e281]
+      - generic [ref=e284]:
+        - generic [ref=e285]: help
+        - generic [ref=e286]
+    - generic [ref=e290]:
+      - link "Learn More" [ref=e291] [cursor=pointer]:
+        - /url: https://phptravels.com/pricing
+      - button "I Understand & Continue" [ref=e292] [cursor=pointer]
